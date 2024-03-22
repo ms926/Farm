@@ -5,8 +5,9 @@
     box-sizing: border-box;
 }
 .roboto-regular {
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 body{
     width:100vw;
